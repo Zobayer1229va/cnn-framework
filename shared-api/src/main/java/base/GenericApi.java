@@ -49,4 +49,7 @@ public class GenericApi {
         return st;
     }
 
+    public void clean(){
+        driver.close();
+    }
 }
