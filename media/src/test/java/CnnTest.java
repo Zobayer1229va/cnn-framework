@@ -18,7 +18,7 @@ public class CnnTest extends GenericApi {
        clickByCss("#nav-politics");
        System.out.println("after click");
    }
-    @Test
+   // @Test
     public void nav()throws InterruptedException{
         //  Thread.sleep(5000);
         System.out.println(getUrl());
