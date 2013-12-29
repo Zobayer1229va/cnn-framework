@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cnn-framework.iml" filepath="$PROJECT_DIR$/cnn-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-api/shared-api.iml" filepath="$PROJECT_DIR$/shared-api/shared-api.iml" />
+    </modules>
+  </component>
+</project>
+
